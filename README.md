@@ -1,4 +1,4 @@
-### Hi there 👋 i'am Zero
+### Hi there 👋 I am Zero
 
 <!--
 **zero0click/zero0click** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
