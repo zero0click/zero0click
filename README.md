@@ -30,3 +30,14 @@ Here are some ideas to get you started:
   </p>
 
 ---
+
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=zero0click&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero0click&count_private=true&theme=dracula">
+
+</p>
+
+---
