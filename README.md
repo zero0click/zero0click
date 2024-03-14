@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 ## 🧘🏻‍♂️ About me
 
-- 🌱 Currently Learning: Python For Hacking & eJPT(PTS).
+- 🌱 Currently Learning: eCPPTv2(PTP).
 - ⚡ Fun fact: My dream is to become the strongest Pentester in the world 🤭.
 
 ---
