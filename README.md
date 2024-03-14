@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ---
 ## 🧘🏻‍♂️ About me
 
-- 🔭 Current Project: Penetration Testing World 👉 [Check](https://t.me/PenetrationTestingTeam)
 - 🌱 Currently Learning: Python For Hacking & eJPT(PTS).
 - ⚡ Fun fact: My dream is to become the strongest Pentester in the world 🤭.
 
