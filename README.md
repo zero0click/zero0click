@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hello+i'm+a+junior+PenetrationTester;Bug+Bounty+Hunter+%F0%9F%90%9E;17+years+old+and+ambitious+%F0%9F%A4%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hello+i'm+a+junior+PenetrationTester;Bug+Bounty+Hunter+%F0%9F%90%9E;18+years+old+and+ambitious+%F0%9F%A4%93)](https://git.io/typing-svg)
 </div>
 
 ---
