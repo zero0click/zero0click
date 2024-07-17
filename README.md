@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Zero! 👋
 
-<!--
-**zero0click/zero0click** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Red teamer with a passion for breaking things and improving security. With a strong background in Web Pentesting, I thrive on uncovering vulnerabilities and enhancing defenses
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing automated web Pentesting tools
+- 🌱 I’m currently learning advanced Exploit Development Techniques.
+- 💬 Ask me about anything related to cybersecurity and Pentesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Web Pentesting
+- Penetration Testing
+
+## Experience
+- **Bug Hunter** at HackerOne
